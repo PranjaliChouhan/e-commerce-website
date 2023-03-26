@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.3",
+    "react-hot-toast": "^2.4.0",
+    "react-icons": "^4.8.0",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.9.0",
+    "sass": "^1.60.0"
+  }
+}
